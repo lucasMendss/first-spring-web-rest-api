@@ -1,9 +1,7 @@
  # Spring Boot Essentials
 
- API REST feita com Spring Boot para estudo de conceitos essenciais como controllers, services, tratamento global de exceções, DTOs e documentação automática com Swagger/OpenAPI.
-
- O projeto trabalha com uma lista de produtos em memória, permitindo operações de CRUD sem banco de dados. Além disso, expõe endpoints simples de teste para facilitar a validação local.
-
+ API REST feita com Spring Boot para estudo de conceitos essenciais como controllers, services, tratamento global de exceções, DTOs e documentação automática com Swagger/OpenAPI. Trabalha com uma lista de produtos em memória, permitindo operações de CRUD sem banco de dados. 
+ 
  ## Funcionalidades
 
  - CRUD de produtos
@@ -34,7 +32,7 @@
  Clone o repositório com:
 
  ```bash
- git clone <URL_DO_REPOSITORIO>
+ git clone https://github.com/lucasMendss/first-spring-web-rest-api
  cd spring-boot-essentials
  ```
 
